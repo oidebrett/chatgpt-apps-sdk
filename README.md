@@ -1,4 +1,4 @@
-# ChatGPT Apps SDK Next.js Starter
+# ChatGPT Apps SDK Example
 
 A minimal Next.js application demonstrating how to build an [OpenAI Apps SDK](https://developers.openai.com/apps-sdk) compatible MCP server with widget rendering in ChatGPT.
 
